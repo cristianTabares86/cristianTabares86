@@ -32,7 +32,7 @@ No solo disfruto de la programación por la cantidad de demanda que hay en el me
 
 
 ## ¿Qué tecnologías uso?  
-El Bootcamp de Henry me ha permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo, además de sequelize son:  
+Mi trayectoria educativa y laboral me han permitido adquirir el conocimiento y experiencia fundamental para despegar 🚀 Por lo que las principales tecnologías que manejo, además de sequelize son:  
   
 
 <br/>  
